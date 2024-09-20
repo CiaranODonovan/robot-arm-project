@@ -2,6 +2,9 @@
 
 This project is an educational work in progress that has mainly served as a self directed learning experience in electronics and CAD mechanical design. 
 The code provided is very simplistic prototyping for esp8266 web browser controls over a WiFi network while I experimented with different components, and will be updated with more comprehensive control & functionality in the future. 
+
+
+
 [![Demo](https://img.youtube.com/vi/Rj-Bpq9z9jQ/0.jpg)](https://www.youtube.com/watch?v=Rj-Bpq9z9jQ)
 
 
